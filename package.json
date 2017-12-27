@@ -1,0 +1,19 @@
+{
+  "name": "amacleay-throwitaway-refactored-giggle",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amacleay/amacleay-throwitaway-refactored-giggle.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/amacleay/amacleay-throwitaway-refactored-giggle/issues"
+  },
+  "homepage": "https://github.com/amacleay/amacleay-throwitaway-refactored-giggle#readme"
+}
